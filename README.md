@@ -51,6 +51,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a>
-    <img src="https://github.com/iwtriplet/iwtriplet/assets/116769915/f566c3be-6b5c-46f5-be28-3d51baf620b1" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   </p>
