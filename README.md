@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 <p>
 <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   </p>
