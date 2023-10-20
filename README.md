@@ -6,7 +6,7 @@
   </a>
 </h1>
 <h3 align="center">
-Software engineering💻 | App Developer📱 |
+| App Developer📱
 </h4> 
 
 <!-----
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">I am a passionate Software Engineering Student specializing in Mobile Application Development and Web Applications. With two years of solid experience in Mobile App Development, I have honed my skills in creating attractive and easy-to-use apps.</p>
 <h3>
   My Portfolio: 
-    <a href="https://tomflutter.netlify.app/" target="_blank">
+    <a href="" target="_blank">
     Tomflutter </a>
 </h3>
 
