@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">I am a passionate Software Engineering Student specializing in Mobile Application Development and Web Applications. With two years of solid experience in Mobile App Development, I have honed my skills in creating attractive and easy-to-use apps.</p>
-<h3>
-  My Portfolio: 
-    <a href="" target="_blank">
-    Tomflutter </a>
-</h3>
+
 
 **Reach me 📫: tomflutter@gmail.com**
 
