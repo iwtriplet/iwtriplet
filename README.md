@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 
 **Reach me 📫: tomflutter@gmail.com**
 
-**SUPPORT ME**
-:Nihbuatjajan & paypal && BTC
-
-
+**SUPPORT ME👇👇**
 
 <a href="https://nowpayments.io/donation?api_key=G6S91BQ-F69404Y-J9FRF53-RX3JYFA&source=lk_donation&medium=referral" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments"></a>
