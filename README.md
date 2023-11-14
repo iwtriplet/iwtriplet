@@ -38,7 +38,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate with PayPal" />
 </a>
 
-<img src="https://raw.githubusercontent.com/tomflutter/tomflutter_snackgame/master/BTC_BTC_deposit_address_1699938390135.png" alt="Bitcoin" />
+<a href="https://nowpayments.io/donation?api_key=" target="_blank">
+  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
