@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">I am a passionate Software Engineering Student specializing in Mobile Application Development and Web Applications. With two years of solid experience in Mobile App Development, I have honed my skills in creating attractive and easy-to-use apps.</p>
+<p align="center">Saya seorang Mahasiswa Rekayasa Perangkat Lunak yang berspesialisasi dalam Pengembangan Aplikasi Seluler dan Aplikasi Web. Dengan pengalaman yang solid selama dua tahun dalam Pengembangan Aplikasi Seluler, saya telah mengasah keterampilan saya dalam membuat aplikasi yang menarik dan mudah digunakan.</p>
 
 
 **Reach me 📫: tomflutter@gmail.com**
