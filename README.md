@@ -3,6 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Tomyradea+%F0%9F%91%8B">
   </a>
 </h1>
+
+![Animasi ular]( https://github.com/tomflutter/tomflutter/blob/output/github-contribution-grid-snake.svg )
+
 <h3 align="center">
 | App Developer📱
 </h4> 
