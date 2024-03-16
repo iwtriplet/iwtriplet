@@ -6,8 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=I+am+Tomyradea+%F0%9F%91%8B">
   </a>
 
-<h3 align="center">
-| App Developer📱
+<h3 align="center"> |Software Engineers📱💻|Freelancer|
 </h4> 
 
 <!-----
