@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p>
 <a>
-    <img src="https://google.com" alt="example badge" target="_blank" href="google.com" style="vertical-align:top margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/visualstudio_code.svg" alt="example badge" target="_blank" href="google.com" style="vertical-align:top margin:6px 4px">
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
