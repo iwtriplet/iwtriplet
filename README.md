@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Saya seorang Pengembangan Aplikasi Seluler dan Aplikasi Web. dalam Pengembangan Aplikasi Seluler, saya telah mengasah keterampilan saya dalam membuat aplikasi yang menarik dan mudah digunakan.</p>
+<p align="center">Saya seorang Pengembang Aplikasi Mobile. dalam Pengembangan Aplikasi Mobile, saya telah mengasah keterampilan saya dalam membuat aplikasi yang menarik dan mudah digunakan.</p>
 
 
 **Reach me 📫: tomflutter@gmail.com**
