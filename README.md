@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Repo+tomflutter;Have+fun+everyone" alt="Typing SVG" /></a>
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Tom%20Flutter%20(Programmer)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
+
 <h4 align="center"> |Programmer📱|💻Freelancer|
 </h4> 
 
@@ -13,7 +17,13 @@
 
 
 ## 📈 GitHub Stats
-![Tomflutter's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomflutter&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomflutter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomflutter&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## 🌐 Let's Connect:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codedart00)
