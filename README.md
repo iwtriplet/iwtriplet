@@ -12,38 +12,20 @@
 <!-----
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">Saya seorang Pengembang Aplikasi Mobile. dalam Pengembangan Aplikasi Mobile, saya telah mengasah keterampilan saya dalam membuat aplikasi yang menarik dan mudah digunakan.</p>
+## 🛠️ Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 
-**Reach me 📫: tomflutter@sourcecodeai.biz.id**
+## 📈 GitHub Stats
+![Tomflutter's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomflutter&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
-**SUPPORT ME👇👇**
-
-> BITCOIN
-
-
-![BTC_BTC_deposit_address_1708266178992](https://github.com/tomflutter/tomflutter/assets/116769915/52860565-d275-4e02-91df-bc4630049fa4)
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tomflutter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomflutter23" height="30" width="40" /></a>
-<a href="https://twitter.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomflutter" height="30" width="40" /></a>
 
 </p>
 <h3>Skills:</h3>
