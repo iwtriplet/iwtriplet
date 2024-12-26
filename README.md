@@ -1,9 +1,5 @@
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/tomflutter/tomflutter/assets/116769915/8c4e2f7c-554a-4712-8932-b787c2a07ce1)
-
-<h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+Repo+tomflutter;Have+fun+everyone" alt="Typing SVG" /></a>
-
-<h3 align="center"> |Programmer📱|💻Freelancer|
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Repo+tomflutter;Have+fun+everyone" alt="Typing SVG" /></a>
+<h4 align="center"> |Programmer📱|💻Freelancer|
 </h4> 
 
 ## 🛠️ Languages and Tools:
