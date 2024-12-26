@@ -9,10 +9,6 @@
 <h3 align="center"> |Software Engineers📱💻|Freelancer|
 </h4> 
 
-<!-----
-
-
-
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -26,18 +22,10 @@
 ## 📈 GitHub Stats
 ![Tomflutter's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomflutter&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
+## 🌐 Let's Connect:
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codedart00)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FzUpQo0mpQY)
+- [![Pub.dev](https://img.shields.io/badge/Pub.dev-42A5F5?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/tombutton)
 
-</p>
-<h3>Skills:</h3>
-  
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,c,py,html,css,js,androidstudio)
-<h3>Tools Used:</h3>
 
-<p>
-<a>
-    <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/visualstudio_code.svg" alt="example badge" target="_blank" href="google.com" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a>
-    <img src="https://raw.githubusercontent.com/iwtriplet/triplepro/main/android_studio.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  </p>
+
